@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(126, 159, 231);
+}
+h1{
+    text-align: center;color: aliceblue;
+    background:url(polonia_vs_alemania.jfif);
+    background-position: center center;
+}
+h2{
+    text-align: center;color: rgb(203, 255, 255);
+    max-width: 1400px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    backdrop-filter:blur(15px);
+}
+iframe{
+    width: 600px;
+    height: 400px;
+    align-content: center center;
+}
+a{
+    background-color: beige;color: rgb(8, 1, 1);
+}
+.correo{
+    align-content: center;
+    width: 100px;
+    height: 50px;
+}
+.interno{
+    max-width: 1400px;
+    border-radius: 5px;
+    backdrop-filter:blur(15px);
+}
